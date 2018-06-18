@@ -1,0 +1,222 @@
+
+[Monday, 18-Jun-18 10:35:11 UTC]	Index.php executing request uri:/api/public/
+[Monday, 18-Jun-18 10:35:11 UTC]	Route:: WEB_URL:http://18.188.212.222/api
+[Monday, 18-Jun-18 10:35:11 UTC]	Route:: set request_uri:/api/public/
+[Monday, 18-Jun-18 10:35:11 UTC]	Route:: altered request_uri:https://18.188.212.222/api/public/
+[Monday, 18-Jun-18 10:35:11 UTC]	Route::  request_path:Array
+(
+    [0] => https://18.188.212.222/api/public/
+)
+
+[Monday, 18-Jun-18 10:35:11 UTC]	Route::  result['request'] :Array
+(
+    [method] => GET
+    [request] => https://18.188.212.222/api/public/
+)
+
+[Monday, 18-Jun-18 10:35:11 UTC]	The result of parse_uri is :Array
+(
+    [status] => 1
+    [message] => Parsed URL
+    [data] => Array
+        (
+            [method] => GET
+            [request] => https://18.188.212.222/api/public/
+            [request_parts] => Array
+                (
+                    [0] => https:
+                    [1] => 
+                    [2] => 18.188.212.222
+                    [3] => api
+                    [4] => public
+                    [5] => 
+                )
+
+        )
+
+)
+
+[Monday, 18-Jun-18 10:41:45 UTC]	Index.php executing request uri:/api/public/
+[Monday, 18-Jun-18 10:41:45 UTC]	Route:: WEB_URL:http://18.188.212.222/api
+[Monday, 18-Jun-18 10:41:45 UTC]	Route:: set request_uri:/api/public/
+[Monday, 18-Jun-18 10:41:45 UTC]	Route:: altered request_uri:https://18.188.212.222/api/public/
+[Monday, 18-Jun-18 10:41:45 UTC]	Route::  request_path:Array
+(
+    [0] => https://18.188.212.222/api/public/
+)
+
+[Monday, 18-Jun-18 10:41:45 UTC]	Route::  result['request'] :Array
+(
+    [method] => GET
+    [request] => https://18.188.212.222/api/public/
+)
+
+[Monday, 18-Jun-18 10:41:45 UTC]	The result of parse_uri is :Array
+(
+    [status] => 1
+    [message] => Parsed URL
+    [data] => Array
+        (
+            [method] => GET
+            [request] => https://18.188.212.222/api/public/
+            [request_parts] => Array
+                (
+                    [0] => https:
+                    [1] => 
+                    [2] => 18.188.212.222
+                    [3] => api
+                    [4] => public
+                    [5] => 
+                )
+
+        )
+
+)
+
+[Monday, 18-Jun-18 10:41:55 UTC]	Index.php executing request uri:/api/public/
+[Monday, 18-Jun-18 10:41:55 UTC]	Route:: WEB_URL:http://18.188.212.222/api
+[Monday, 18-Jun-18 10:41:55 UTC]	Route:: set request_uri:/api/public/
+[Monday, 18-Jun-18 10:41:55 UTC]	Route:: altered request_uri:https://18.188.212.222/api/public/
+[Monday, 18-Jun-18 10:41:55 UTC]	Route::  request_path:Array
+(
+    [0] => https://18.188.212.222/api/public/
+)
+
+[Monday, 18-Jun-18 10:41:55 UTC]	Route::  result['request'] :Array
+(
+    [method] => GET
+    [request] => https://18.188.212.222/api/public/
+)
+
+[Monday, 18-Jun-18 10:41:55 UTC]	The result of parse_uri is :Array
+(
+    [status] => 1
+    [message] => Parsed URL
+    [data] => Array
+        (
+            [method] => GET
+            [request] => https://18.188.212.222/api/public/
+            [request_parts] => Array
+                (
+                    [0] => https:
+                    [1] => 
+                    [2] => 18.188.212.222
+                    [3] => api
+                    [4] => public
+                    [5] => 
+                )
+
+        )
+
+)
+
+[Monday, 18-Jun-18 10:42:02 UTC]	Index.php executing request uri:/api/public/
+[Monday, 18-Jun-18 10:42:02 UTC]	Route:: WEB_URL:http://18.188.212.222/api
+[Monday, 18-Jun-18 10:42:02 UTC]	Route:: set request_uri:/api/public/
+[Monday, 18-Jun-18 10:42:02 UTC]	Route:: altered request_uri:https://18.188.212.222/api/public/
+[Monday, 18-Jun-18 10:42:02 UTC]	Route::  request_path:Array
+(
+    [0] => https://18.188.212.222/api/public/
+)
+
+[Monday, 18-Jun-18 10:42:02 UTC]	Route::  result['request'] :Array
+(
+    [method] => GET
+    [request] => https://18.188.212.222/api/public/
+)
+
+[Monday, 18-Jun-18 10:42:02 UTC]	The result of parse_uri is :Array
+(
+    [status] => 1
+    [message] => Parsed URL
+    [data] => Array
+        (
+            [method] => GET
+            [request] => https://18.188.212.222/api/public/
+            [request_parts] => Array
+                (
+                    [0] => https:
+                    [1] => 
+                    [2] => 18.188.212.222
+                    [3] => api
+                    [4] => public
+                    [5] => 
+                )
+
+        )
+
+)
+
+[Monday, 18-Jun-18 10:43:14 UTC]	Index.php executing request uri:/api/public/
+[Monday, 18-Jun-18 10:43:14 UTC]	Route:: WEB_URL:http://18.188.212.222/api
+[Monday, 18-Jun-18 10:43:14 UTC]	Route:: set request_uri:/api/public/
+[Monday, 18-Jun-18 10:43:14 UTC]	Route:: altered request_uri:https://18.188.212.222/api/public/
+[Monday, 18-Jun-18 10:43:14 UTC]	Route::  request_path:Array
+(
+    [0] => https://18.188.212.222/api/public/
+)
+
+[Monday, 18-Jun-18 10:43:14 UTC]	Route::  result['request'] :Array
+(
+    [method] => GET
+    [request] => https://18.188.212.222/api/public/
+)
+
+[Monday, 18-Jun-18 10:43:14 UTC]	The result of parse_uri is :Array
+(
+    [status] => 1
+    [message] => Parsed URL
+    [data] => Array
+        (
+            [method] => GET
+            [request] => https://18.188.212.222/api/public/
+            [request_parts] => Array
+                (
+                    [0] => https:
+                    [1] => 
+                    [2] => 18.188.212.222
+                    [3] => api
+                    [4] => public
+                    [5] => 
+                )
+
+        )
+
+)
+
+[Monday, 18-Jun-18 10:46:41 UTC]	Index.php executing request uri:/api/public/
+[Monday, 18-Jun-18 10:46:41 UTC]	Route:: WEB_URL:http://18.188.212.222/api
+[Monday, 18-Jun-18 10:46:41 UTC]	Route:: set request_uri:/api/public/
+[Monday, 18-Jun-18 10:46:41 UTC]	Route:: altered request_uri:https://18.188.212.222/api/public/
+[Monday, 18-Jun-18 10:46:41 UTC]	Route::  request_path:Array
+(
+    [0] => https://18.188.212.222/api/public/
+)
+
+[Monday, 18-Jun-18 10:46:41 UTC]	Route::  result['request'] :Array
+(
+    [method] => GET
+    [request] => https://18.188.212.222/api/public/
+)
+
+[Monday, 18-Jun-18 10:46:41 UTC]	The result of parse_uri is :Array
+(
+    [status] => 1
+    [message] => Parsed URL
+    [data] => Array
+        (
+            [method] => GET
+            [request] => https://18.188.212.222/api/public/
+            [request_parts] => Array
+                (
+                    [0] => https:
+                    [1] => 
+                    [2] => 18.188.212.222
+                    [3] => api
+                    [4] => public
+                    [5] => 
+                )
+
+        )
+
+)
